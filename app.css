@@ -392,3 +392,7 @@ a.before:hover:before,a.after:hover:after{
   fill: turquoise;
 
 }
+
+.image-format{
+  height: 300px;
+}
